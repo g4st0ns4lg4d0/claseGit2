@@ -1,2 +1,5 @@
 Tiranosaurio rex
 godzilla
+velociraptor
+braqueosaurio
+mamut
